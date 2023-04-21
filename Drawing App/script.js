@@ -8,6 +8,7 @@ let prevX = null
 let prevY = null
 let draw = false
 
+
 body.style.backgroundColor = "#FFFFFF";
 var theInput = document.getElementById("favcolor");
 
